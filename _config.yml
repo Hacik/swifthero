@@ -2,12 +2,13 @@ name: SwiftHero
 favicon: null
 layout_spectrum: 0.12542
 typography_spectrum: 0.59386
+title: Building a better app experience through Swift.
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-71994802-1
   facebook: null
   twitter: null
 opengraph:
