@@ -1,0 +1,28 @@
+name: SwiftHero
+favicon: null
+layout_spectrum: 0.12894744356162846
+typography_spectrum: 0.12985524185933173
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8269384137820452
+  lightness: 0.6160669622477144
+  saturation: 0.46479547931812704
+  rhythmicContrast: 0.14631792926229537
+purpose: []
